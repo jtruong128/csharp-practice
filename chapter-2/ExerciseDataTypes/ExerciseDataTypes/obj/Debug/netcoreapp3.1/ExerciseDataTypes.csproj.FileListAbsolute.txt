@@ -1,0 +1,14 @@
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.exe
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.deps.json
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.runtimeconfig.json
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.runtimeconfig.dev.json
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.dll
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\bin\Debug\netcoreapp3.1\ExerciseDataTypes.pdb
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.csproj.AssemblyReference.cache
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.AssemblyInfoInputs.cache
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.AssemblyInfo.cs
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.dll
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.pdb
+C:\Users\jtruo\source\repos\csharp-practice\chapter-2\ExerciseDataTypes\ExerciseDataTypes\obj\Debug\netcoreapp3.1\ExerciseDataTypes.genruntimeconfig.cache
