@@ -1,0 +1,14 @@
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.csproj.AssemblyReference.cache
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.AssemblyInfoInputs.cache
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.AssemblyInfo.cs
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.csproj.CoreCompileInputs.cache
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.exe
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.deps.json
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.runtimeconfig.json
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.runtimeconfig.dev.json
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.dll
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\bin\Debug\netcoreapp3.1\Ch2ExDataType.pdb
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.dll
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.pdb
+C:\Users\jtruo\source\repos\csharp-practice\MyPracticeProject\Ch2ExDataType\obj\Debug\netcoreapp3.1\Ch2ExDataType.genruntimeconfig.cache
